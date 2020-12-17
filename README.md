@@ -8,6 +8,7 @@ Valid OIM subscription and SentinelOne subscription with API access
 
 # Configuration
 SentinelOne Management URL: (e.g. https://usea1-012.sentinelone.net/login) 
+
 SentinelOne API:
 
 # Functions

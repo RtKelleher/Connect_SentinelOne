@@ -14,7 +14,8 @@ SentinelOne API:
 Utilizes Forescout to compare online Forescout assets against SentinelOne. If the asset exists in SentinelOne the plugin then imports various agent information. The user can then add further automation in the form of responses such as auto disconnect via Forescout or alerting.
 
 Sample Ingest Data Image #1
-![alt text](https://github.com/RtKelleher/Connect_SentinelOne/blob/master/Samples/S1%20Sample%20Image.png?raw=true)
+
+![Sample Ingest Data Image #1](https://github.com/RtKelleher/Connect_SentinelOne/blob/master/Samples/S1%20Sample%20Image.png?raw=true)
 
 Sample Ingest Data Image #2
-![alt text](https://github.com/RtKelleher/Connect_SentinelOne/blob/master/Samples/S1%20Sample%20Image%202.png?raw=true)
+![Sample Ingest Data Image #2](https://github.com/RtKelleher/Connect_SentinelOne/blob/master/Samples/S1%20Sample%20Image%202.png?raw=true)
